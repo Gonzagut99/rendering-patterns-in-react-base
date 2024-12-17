@@ -1,6 +1,13 @@
 # 🌱 Patrones de renderizado y composición en React 🌿
-
-Para seguir el curso y completar los ejemplos de cada patrón, debes:
+## Descripción
+Pequeña demostración del uso de los patrones de renderizado mas utilizados en React:
+- Render props
+- Control props
+- Compound components
+- High order components
+- Custom hooks
+- Patrón container-presenter
+- Componentes controlados y no controlados
 
 1. Clonar este repo.
 2. Instalar las dependencias con `npm install`.
